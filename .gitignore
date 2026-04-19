@@ -1,10 +1,5 @@
 .venv
 .env
-database.py
-models.py
-request.py
-user.json
-users.db
 __pycache__
 
 .git
